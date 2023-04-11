@@ -1,6 +1,6 @@
 #MinecraftDimensionCalculator.
 #Author: Mikołaj "nvckxwsky" Pusz.
-#LICENSE: GNU GPL 3.0.
+#LICENSE: GNU GPL v3. 
 #source: github.com/nvckxwsky/MinecraftDimensionalCalculator.
 
 exit_val = int(0)
